@@ -1,0 +1,25 @@
+#a{
+    color: rgb(0, 89, 255);
+}
+table{
+    margin: auto auto;    
+    color: black;
+    direction: rtl;
+    border: 1px solid black;
+    
+}
+table ,th,td {
+    border: 1px solid black;
+width: auto;
+border-collapse: collapse;
+padding: 5px;
+}
+input{
+
+
+background-color: #f0f8ff; /* لون خلفية فاتح */ 
+color: #da2c2c; /* لون النص */ 
+border: 2px solid #4CAF50; /* لون الحدود */ 
+padding: 10px; /* مسافة داخلية */
+ border-radius: 5px; /* زوايا دائرية */ 
+}
